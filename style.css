@@ -56,7 +56,7 @@
 @keyframes leaf{ 0% {-webkit-transform:  translate(0, 70px);-moz-transform:  translate(0, 70px);-ms-transform:   translate(0, 70px);transform:  translate(0, 70px);  } 50% {-webkit-transform:  translate(0px);-moz-transform:  translate(0px);-ms-transform:  translate(0px);transform:  translate(0px); } 100% {-webkit-transform:  translate(0, 70px); -moz-transform:  translate(0, 70px);-ms-transform:  translate(0, 70px);transform:  translate(0, 70px); } }
 
 #border{
-  stroke: #59513C;
+  stroke: #685e44;
 }
 
 #Page{
