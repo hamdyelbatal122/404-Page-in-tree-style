@@ -19,7 +19,6 @@
   -ms-flex-align: center;
   align-items: center;
 }
-
 .page404 {
   width: 400px;
   height: auto;
@@ -66,3 +65,5 @@
 #notFound{
   fill: #A7444B;
 }
+
+
